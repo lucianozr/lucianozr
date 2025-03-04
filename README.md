@@ -1,6 +1,7 @@
 <div>
    <a href="https://github.com/lucianozr">
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianozr&layout=compact&langs_count=6&theme=cobalt"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucianozr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
 <div style="display: inlineblock"><br>
