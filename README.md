@@ -1,6 +1,6 @@
 <div>
-   <a href="https://github.com/Vitor-BitencourtJ">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-BitencourtJ&layout=compact&langs_count=6&theme=cobalt"/>
+   <a href="https://github.com/lucianozr">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianozr&layout=compact&langs_count=6&theme=cobalt"/>
 </div>
 
 <div style="display: inlineblock"><br>
@@ -13,5 +13,5 @@
  
 Meus meios de contato!😉
 <div> 
-  <a href="https://instagram.com/vitencur" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "vitor.jacques100@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/lucianoszr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "jr.lucianobio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
